@@ -6,3 +6,4 @@ Patience, I'm newbie
 In order to set this thing on fire you must:
 
 ```npm install react```
+Cambios recientes para mostrar como ejemplo
